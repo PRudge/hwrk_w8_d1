@@ -13,5 +13,4 @@ Homework - Week 8 Day1
 
 
 My attempt at a dataflow diagram
-![](/Users/Pauline/Desktop/Scan.jpeg
-)
+![](Scan.jpeg)
